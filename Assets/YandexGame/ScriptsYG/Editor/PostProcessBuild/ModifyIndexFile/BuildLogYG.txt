@@ -1,2 +1,0 @@
-Build path: D:/OpenServer/domains/MakeCakeStack
-Build number: 153
